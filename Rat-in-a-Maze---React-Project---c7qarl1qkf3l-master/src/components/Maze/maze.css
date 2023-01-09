@@ -1,0 +1,36 @@
+.row{
+    display: flex;
+    align-items: center;
+    max-width: 200px;
+}
+
+.block{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+    border: 1px solid #05051f;
+}
+
+.main-Container{
+    display: flex;
+}
+
+.icon{
+   font-size: 35px;
+}   
+
+.bottom{
+    margin-top: 160px;
+    margin-left: -50px;
+}
+
+.Container{
+    margin-bottom: 20px;
+}
+
+.Heading{
+    margin-left: 40px;
+    color: #f9f9f9;
+}
